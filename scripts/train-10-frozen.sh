@@ -1,0 +1,1 @@
+python train.py --epochs 500 --data lp_faces.yaml --batch 12 --img 128 --weights yolov5s.pt --cache --hyp hyp.scratch-low.yaml #--device 0,1 # --evolve
